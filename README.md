@@ -1,10 +1,4 @@
-To make your **README.md** look impressive for a GitHub repository or a project submission, I have used professional Markdown elements like badges, tables, and code blocks.
-
-As requested, I have updated the details to **Krishnakant Gupta**, changed the Reg No to **25BEC10094**, and pivoted the description to the **Electronics and Communication Engineering (ECE)** perspective.
-
------
-
-### 🚀 **Copy/Paste the Code Below into your README.md**
+🚀 **Copy/Paste the Code Below into your README.md**
 
 ````markdown
 # ⚡ ECE Terminal-Based Task Manager (CLI)
