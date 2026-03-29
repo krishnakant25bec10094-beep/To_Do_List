@@ -1,6 +1,3 @@
-🚀 **Copy/Paste the Code Below into your README.md**
-
-````markdown
 # ⚡ ECE Terminal-Based Task Manager (CLI)
 
 <p align="center">
@@ -57,28 +54,3 @@ The **CLI To-Do List Manager** is a high-efficiency, lightweight Python utility 
 1. **Prerequisites:** Ensure you have Python installed.
    ```bash
    python --version
-````
-
-2.  **Run the Application:**
-    Navigate to the project directory and execute:
-
-    ```bash
-    python todo_list.py
-    ```
-
-3.  **Workflow:** Follow the on-screen menu to **Add (1)**, **View (2)**, or **Remove (3)** tasks. All changes are written to the disk in real-time.
-
------
-
-## 🎓 ECE Application Context
-
-As an Electronics student, I developed this tool to manage the high-pressure workflow of hardware-software co-design. It serves as a foundation for future projects involving **UART Serial Monitoring** and **IoT-based remote task logging**.
-
------
-
-\<p align="center"\>
-\<i\>Developed with precision as part of the Digital Literacy & Student Ambassador Program.\</i\>
-\</p\>
-
-```
-```
